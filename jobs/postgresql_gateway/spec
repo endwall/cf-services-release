@@ -14,4 +14,3 @@ packages:
   - sqlite
   - syslog_aggregator
 
-properties: {}
